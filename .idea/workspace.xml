@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="282580fd-9e0c-4c9c-a5d6-97c0659f8ab0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../react-form/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-form/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-form/.idea/react-form.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-form/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../121- crypto project - styling.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../80b7a24ad27071b18d1be3fd52a43f37.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Javascript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript/.idea/workspace.xml" afterDir="false" />
@@ -44,6 +36,10 @@
       <change beforePath="$PROJECT_DIR$/../redbag.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../redbag2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +47,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -85,7 +81,8 @@
       <updated>1676621723433</updated>
       <workItem from="1676621724532" duration="5144000" />
       <workItem from="1676655976318" duration="659000" />
-      <workItem from="1676701916663" duration="19323000" />
+      <workItem from="1676701916663" duration="19704000" />
+      <workItem from="1676734440213" duration="17078000" />
     </task>
     <servers />
   </component>

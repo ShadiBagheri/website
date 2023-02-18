@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="282580fd-9e0c-4c9c-a5d6-97c0659f8ab0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../react-form/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-form/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-form/.idea/react-form.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-form/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../121- crypto project - styling.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../80b7a24ad27071b18d1be3fd52a43f37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amy-shamblen-F52I5BtDuhY-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andy-hermawan-uFdCDgnoNVI-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bluebag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bluebag2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bluebag22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darkbag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ehimetalor-akhere-unuabona-qgLv3MYYHrQ-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freestocks-_3Q3tsJ01nc-unsplash (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../icons8-collapse-arrow-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../icons8-down-24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../icons8-expand-arrow-50 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../icons8-user-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../icons8-user-plumpy.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login-page/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../login-page/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login-page/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../login-page/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login-page/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../login-page/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login-page/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../login-page/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login-page/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login-page/src/component/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../login-page/src/component/SignUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login-page/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../login-page/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-website/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-website/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orangebag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-form/src/components/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-form/src/components/SignUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redbag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redbag2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2LrGK5UwAReLwWRr0CzITw9w1AI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/web milad class" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="282580fd-9e0c-4c9c-a5d6-97c0659f8ab0" name="Changes" comment="" />
+      <created>1676621723433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676621723433</updated>
+      <workItem from="1676621724532" duration="5144000" />
+      <workItem from="1676655976318" duration="659000" />
+      <workItem from="1676701916663" duration="19323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
